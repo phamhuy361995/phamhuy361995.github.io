@@ -26,7 +26,7 @@ nâng cao chất lượng sản phẩm, dịch vụ, mang đến nhiều giá tr
 - Ngôn ngữ lập trình PHP
 
 ## KINH NGHIỆM LÀM VIỆC
-### 08/2021-02/2025 - Công ty cổ phần Công nghệ - Viễn thông Elcom
+### 08/2021-02/2026 - Công ty cổ phần Công nghệ - Viễn thông Elcom
 Nhân viên
 - Tham gia dự án về xây dựng website nội bộ: VSAT, ITS, MetaCEN, ETC.
 - Tham gia hoàn thiện và nâng cấp giao diện cho dự án VSAT.

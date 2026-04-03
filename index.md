@@ -24,7 +24,7 @@ Applying web development programming skills and knowledge of website building to
 - PHP Programming Language
 
 ## WORK EXPERIENCE
-### 08/2021-02/2025 - ELCOM CORPORATION
+### 08/2021-02/2026 - ELCOM CORPORATION
 Developer
 - Participated in building internal website projects: VSAT, ITS, MetaCEN, ETC.
 - Participated in perfecting and upgrading the UI for the VSAT project.

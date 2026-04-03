@@ -9,8 +9,8 @@ Applying web development programming skills and knowledge of website building to
 
 ## CORE SKILLS
 - **Languages & Frameworks:** PHP (Wordpress, Laravel, OpenCart), Javascript (VueJs, React, Angular, jQuery)
-- **Frontend & UI:** HTML, CSS, SCSS, Element UI, TailwindCss, OpenLayer, Leafletjs, Webix, KendoUI
-- **Database & Tools:** MySQL, MongoDB, SQLServer, Git, SVN
+- **Frontend & UI:** HTML, CSS, SCSS, Element UI, TailwindCss, OpenLayer, LeafletJs, KendoUI
+- **Database & Tools:** MySQL, SQLServer, Git, SVN
 - **Web Servers:** Apache, Nginx
 
 ---
@@ -18,7 +18,7 @@ Applying web development programming skills and knowledge of website building to
 ## PROFESSIONAL EXPERIENCE
 
 ### ELCOM CORPORATION
-**Front-end Developer / Developer** | *08/2021 – 02/2025*
+**Front-end Developer / Developer** | *08/2021 – 02/2026* | 
 *Key contributor to internal and enterprise-level web projects focusing on intelligent transport, toll monitoring, and satellite data collection.*
 - **ETC (Toll Station Monitoring System):** Built resilient UI/UX frameworks and features using Vue JS, TailwindCss, Element UI, and modern RESTful APIs.
 - **ITS (Intelligent Transportation System):** Executed traffic map implementations based on OpenLayers and Leaflet. Managed real-time data using SocketIO and MilestoneWebAPI along with Vue JS.
