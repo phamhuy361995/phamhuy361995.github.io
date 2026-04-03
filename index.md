@@ -1,7 +1,7 @@
 # Phạm Quang Huy
 ## Developer
 
-Email: phamhuy361995@gmail.com
+Email: phamhuy361995@gmail.com | me@huypq.com
 
 ## CAREER OBJECTIVE
 Applying web development programming skills and knowledge of website building to become a professional web developer, helping to improve product and service quality, and bringing great value to customers. Thereby, perfecting myself and improving my technical competencies.

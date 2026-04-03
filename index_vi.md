@@ -2,7 +2,7 @@
 # Phạm Quang Huy
 ## Developer
 
-Email: phamhuy361995@gmail.com
+Email: phamhuy361995@gmail.com | me@huypq.com
 
 ## MỤC TIÊU NGHỀ NGHIỆP
 Áp dụng những kỹ năng lập trình website và sự hiểu biết về xây dựng website để trở thành một lập trình viên website chuyên nghiệp, giúp

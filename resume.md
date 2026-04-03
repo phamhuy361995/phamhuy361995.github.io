@@ -1,6 +1,6 @@
 # Phạm Quang Huy - Web Developer
 
-**Email:** phamhuy361995@gmail.com
+**Email:** phamhuy361995@gmail.com | me@huypq.com
 
 ---
 
