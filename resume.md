@@ -9,7 +9,7 @@ Applying web development programming skills and knowledge of website building to
 
 ## CORE SKILLS
 - **Languages & Frameworks:** PHP (Wordpress, Laravel, OpenCart), Javascript (VueJs, React, Angular, jQuery)
-- **Frontend & UI:** HTML, CSS, SCSS, Element UI, TailwindCss, OpenLayer, LeafletJs, KendoUI
+- **Frontend & UI:** HTML, CSS, SCSS, Element UI, TailwindCss, OpenLayer, LeafletJs
 - **Database & Tools:** MySQL, SQLServer, Git, SVN
 - **Web Servers:** Apache, Nginx
 

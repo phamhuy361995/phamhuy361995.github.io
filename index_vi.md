@@ -1,180 +1,224 @@
-
 # Phạm Quang Huy
 ## Developer
 
-Email: phamhuy361995@gmail.com | me@huypq.com
+Email: phamhuy361995@gmail.com / me@huypq.com
 
 ## MỤC TIÊU NGHỀ NGHIỆP
-Áp dụng những kỹ năng lập trình website và sự hiểu biết về xây dựng website để trở thành một lập trình viên website chuyên nghiệp, giúp
-nâng cao chất lượng sản phẩm, dịch vụ, mang đến nhiều giá trị cho khách hàng. Từ đó hoàn thiện bản thân, nâng cao trình độ
+Mục tiêu là áp dụng chuyên môn phát triển giao diện người dùng (front-end) vững chắc để xây dựng các ứng dụng web có khả năng mở rộng, hiệu suất cao và lấy người dùng làm trung tâm. Đam mê tạo ra giao diện người dùng/trải nghiệm người dùng (UI/UX) trực quan và mang đến trải nghiệm người dùng liền mạch trên các nền tảng web hiện đại. Nâng cao chất lượng sản phẩm và đóng góp vào giá trị kinh doanh thông qua mã nguồn sạch, dễ bảo trì và hiệu quả. Liên tục học hỏi và áp dụng các công nghệ, framework và phương pháp thực hành tốt nhất mới trong hệ sinh thái front-end. Phấn đấu trở thành một nhà phát triển front-end có kỹ năng cao, đồng thời nâng cao khả năng giải quyết vấn đề và năng lực kỹ thuật.
 
 ## KỸ NĂNG
-+ PHP: Wordpress, Laravel, OpenCart
-+ Javascript: VueJs, jQuery
-+ HTML, Css, Scss
-+ UI library: Element UI, TailwindCss, OpenLayer, Leafletjs,...
-+ Version control: Git, SVN.
-+ Web Servers: Apache, Nginx.
++ **Frontend:** HTML5, CSS3, SCSS, JavaScript(ES6+)
+
++ **Framework & Library:** Vue.js (v2, v3), Element UI, Tailwind CSS, OpenLayer, Leaflet
+
++ **Backend & CMS:** PHP, Wordpress, Laravel, OpenCart
+
++ **Tools & Others:** Git, SVN, Apache, Nginx, VSCode, GeoServer, Keycloak
 
 ## HỌC VẤN
-09/2013-12/2017 - Đại học Điện lực
+09/2013-04/2018 - Đại học Điện lực
 - Khoa Công nghệ thông tin
 - Chuyên ngành: Thương mại điện tử
 
-07/2015-10/2015 - Viện CNTT - ĐHQG Hà Nội
-- Thiết kế lập trình website
+07/2015-10/2015 - Viện CNTT - ĐHQG Hà Nội(ITPlus)
+- Thiết kế lập trình web chuyên nghiệp
 - Ngôn ngữ lập trình PHP
 
 ## KINH NGHIỆM LÀM VIỆC
-### 08/2021-02/2026 - Công ty cổ phần Công nghệ - Viễn thông Elcom
-Nhân viên
-- Tham gia dự án về xây dựng website nội bộ: VSAT, ITS, MetaCEN, ETC.
-- Tham gia hoàn thiện và nâng cấp giao diện cho dự án VSAT.
-- Tham gia xây dựng, hoàn thiện các tính năng, giao diện cho dự án giao thông thông minh ITS.
-- Tham gia xây dựng giao diện dự án MetaCEN
+### 08/2021-02/2026 - Công ty cổ phần công nghệ - viễn thông ELCOM
+**Developer**
+- Tham gia xây dựng các dự án website nội bộ: ETC, VSAT, ITS, MetaCEN.
+- Tham gia hoàn thiện và nâng cấp giao diện người dùng (UI) cho dự án VSAT.
+- Tham gia xây dựng và hoàn thiện các tính năng và giao diện người dùng cho dự án ITS (Hệ thống Giao thông Thông minh).
+- Tham gia xây dựng giao diện người dùng cho dự án MetaCEN.
 - Xây dựng, hoàn thiện và nâng cấp các tính năng theo yêu cầu.
 
 ### 06/2021-08/2021 - Công ty CMC Global
-Nhân viên
+**Developer**
 - Tham gia dự án về xây dựng website eKyc cho Mantradao.
 - Xây dựng, hoàn thiện các module website xác thực thông tin.
-### 03/2020-04/2021 - Công ty cổ phần Divine Corp
-Nhân viên
-- Tham gia dự án về xây dựng website: study.divine.vn, divine.vn, divineshop.vn, dcstore.vn.
+
+### 03/2020-04/2021 - Công ty cổ Phần Divine Corp
+**Developer**
+- Tham gia dự án về xây dựng website: study.divine.vn, divine.vn, divineshop.vn, dcstore.vn.
 - Xây dựng giao diện cho trang dcstore.vn
 - Tham gia xây dựng, hoàn thiện các module website.
-### 08/2016-02/2020 - Công ty cổ phần truyền số liệu việt nam DCV
-Nhân viên
-- Tham gia dự án về xây dựng website: nhanquyen.vietnam.vn, aseanvietnam.vn, vmusicchart.vn ..
-- Tham gia xây dựng giao diện cho dự án KCS- Tham gia xây dựng, hoàn thiện các module website.
-- Xây dựng website trên wordpress.
-- Xây dựng module hệ thống theo yêu cầu.
-- Xây dựng giao diện website.
-## HOẠT ĐỘNG DỰ ÁN
-### 08/2025-01/2026 - ETC - Hệ thống giám sát trạm thu phí, trạm cân
-Front-end Developer
-- Xây dựng và phát triển các tính năng mới, sử dụng API web services.
-- Xây dựng khung và giao diện mới theo thiết kế.
 
-- Nâng cấp và hoàn thiện các chức năng theo UI/UX.
-- Công nghệ sử dụng:
-+ UI: Figma
-+ Frontend: Vue JS framework(v2), HTML, SCSS.
-+ Library: Element UI, TailwindCss
-+ RESTful API request.
+### 08/2016-02/2020 - Công ty cổ phần truyền số liệu Việt Nam DCV
+**Developer**
+- Tham gia dự án về xây dựng website: nhanquyen.vietnam.vn, aseanvietnam.vn, vmusicchart.vn ..
+- Tham gia xây dựng giao diện cho dự án KCS- Tham gia xây dựng, hoàn thiện các module website.
+- Xây dựng website trên CMS Wordpress, Opencart.
+- Xây dựng module hệ thống.
+- Xây dựng giao diện website.
+
+## HOẠT ĐỘNG DỰ ÁN
+### 08/2025-02/2026 - ETC - Hệ thống giám sát trạm thu phí, trạm cân
+**Mô tả:** Hệ thống được sử dụng để theo dõi và giám sát các phương tiện đi qua trạm thu phí, đồng thời tổng hợp và truy xuất lịch sử giao dịch tại các trạm thu phí.
+
+**Vai trò:** Front-end Developer
+
+**Công nghệ sử dụng:** VueJS (v2), HTML, CSS, SCSS, Element UI, TailwindCSS, RESTful API, Figma Design
+
+**Trách nhiệm:**
+  - Xây dựng và phát triển các tính năng mới sử dụng API web services.
+  - Phát triển component tái sử dụng cho mô hình tải trọng phương tiện trên các làn.
+  - Xây dựng các tính năng xem và xuất file báo cáo doanh thu các trạm.
+  - Nâng cấp và hoàn thiện các chức năng theo yêu cầu UI/UX.
+**Thành tựu:**
+  Hệ thống đã được triển khai thành công tại các trạm thu phí, trạm cân trên các tuyến cao tốc Mai Sơn - Nghi Sơn, Nghi Sơn - Diễn Châu và Vĩnh Hảo - Phan Thiết - Dầu Giây.
+
 ### 02/2022-08/2025 - ITS - Hệ thống Giao thông thông minh
-Front-end Developer
-- Xây dựng và phát triển các tính năng mới, sử dụng API web services.
-- Xây dựng khung và giao diện mới theo thiết kế.
-- Xây dựng bản đồ giao thông dựa trên OpenLayer, Leaet
-- Nâng cấp và hoàn thiện các chức năng theo UI/UX.
-- Công nghệ sử dụng:
-+ UI: Figma
-+ Frontend:  Vue JS framework(v2, v3), HTML, SCSS.
-+ Library: Element UI, OpenLayer, Leaetjs, TailwindCss, MilestoneWebAPI
-+ RESTful API request, SocketIO
+**Mô tả:** Hệ thống được sử dụng để giám sát, đo lường lưu lượng giao thông, cung cấp báo cáo thống kê, và xử lý vi phạm, sự cố thông qua hệ thống camera AI trên các tuyến cao tốc và khu vực đô thị.
+
+**Vai trò:** Front-end Developer
+
+**Công nghệ sử dụng:**
+  + Design: Figma
+  + Frontend: Vue JS (v2, v3), HTML, SCSS
+  + Thư viện: Element UI, OpenLayers, LeafletJS, TailwindCSS, Milestone WebAPI, FabricJS, GeoServer
+  + Giao tiếp: RESTful API, Socket.IO
+
+**Trách nhiệm:**
+  - Phát triển và triển khai các tính năng mới thông qua web service APIs.
+  - Thiết kế và xây dựng UI components và framework frontend dựa trên đặc tả yêu cầu.
+  - Xây dựng kiến trúc frontend cốt lõi và phát triển component tái sử dụng.
+  - Phát triển các tính năng bản đồ giao thông sử dụng OpenLayers và LeafletJS.
+  - Phát triển tính năng tạo bản tin điện tử (biển báo điện tử) bằng FabricJS.
+  - Nâng cấp và tối ưu các chức năng theo yêu cầu UI/UX.
+  - Làm việc với Keycloak: tùy biến giao diện (theme), phát triển form đăng nhập, quản lý người dùng, xác thực và phân quyền.
+  - Làm việc với GeoServer: cắt lớp bản đồ và cấu hình style cho layer.
+  - Triển khai đa ngôn ngữ (i18n) cho toàn bộ hệ thống.
+  - Refactor code cũ nhằm cải thiện khả năng bảo trì và hiệu năng hệ thống.
+  - Fix bug và cập nhật tính năng cho hệ thống sản phẩm.
+**Thành tựu:**
+  - Hệ thống đã được triển khai thành công trên các tuyến cao tốc Cầu Giẽ - Ninh Bình, Nha Trang - Cam Lâm, Diễn Châu - Bãi Vọt, Mai Sơn - Nghi Sơn, Nghi Sơn - Diễn Châu, Vĩnh Hảo - Phan Thiết - Dầu Giây và tại khu vực nội đô TP. Huế, TP. Việt Trì (Phú Thọ).
+  - Xây dựng thành công script triển khai hệ thống theo mô hình multi-node.
+
 ### 08/2021-02/2022 - VSAT - Hệ thống thu thập Dữ liệu Vệ tinh
-Front-end Developer
-- Phát triển các tính năng mới, sử dụng API web services.
-- Xây dựng giao diện mới theo thiết kế.
-- Nâng cấp các chức năng theo UX mới.
-- Công nghệ sử dụng:
-+ Frontend:  Vue JS framework, HTML, SCSS.
-+ Library: Element UI, OpenLayer
-+ RESTful API request.
-### 06/2021-07/2021 - e-Kyc mantradao
-Developer
-- Phát triển các tính năng mới, sử dụng API services.
-- Xây dựng giao diện mới theo thiết kế.
-- Công nghệ sử dụng:
-+ Frontend:  Angular JS framework.
-+ Backend: PHP Laravel framework.
-+ Database MySQL.
-### 01/2021-04/2021 - Divine shop ver 3
-Developer
-- Phát triển các tính năng mới, sử dụng API services.
-- Xây dựng giao diện mới theo thiết kế sử dụng component React
-- Công nghệ sử dụng:
-+ Frontend:  React JS framework.
-+ Backend: PHP API custom framework.
-+ Database MySQL.
+**Mô tả:** Hệ thống thu thập dữ liệu vệ tinh về vị trí và lộ trình di chuyển của tàu thuyền trên biển, đồng thời phát hiện và giải mã thông tin trao đổi giữa các tàu.
+
+**Vai trò:** Front-end Developer
+
+**Công nghệ sử dụng:** Vue JS, HTML, SCSS, Element UI, OpenLayers, RESTful API.
+
+**Trách nhiệm:**
+- Phát triển các tính năng mới sử dụng API web services.
+- Xây dựng giao diện người dùng theo thiết kế.
+- Nâng cấp các chức năng theo yêu cầu UX mới.
+- Sửa lỗi và cập nhật tính năng trên hệ thống đã triển khai.
+
+### 06/2021-07/2021 - e-Kyc Mantradao
+**Mô tả:** Hệ thống định danh khách hàng điện tử cho hệ sinh thái Mantradao.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng:**
+  + Frontend: Angular JS.
+  + Backend: PHP Laravel.
+  + Database MySQL.
+
+**Trách nhiệm:**
+- Phát triển các tính năng mới sử dụng API services.
+- Xây dựng và hoàn thiện giao diện người dùng theo thiết kế.
+- Sửa lỗi trên hệ thống đã triển khai.
+
+### 01/2021-04/2021 - Divine Shop ver 3
+**Mô tả:** Nền tảng thương mại điện tử Divine Shop.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng:**
+  + Frontend: React JS.
+  + Backend: PHP API custom framework.
+  + Database MySQL.
+
+**Trách nhiệm:**
+- Phát triển các tính năng mới sử dụng API services.
+- Xây dựng giao diện người dùng (UI) theo thiết kế bằng các React components.
+
 ### 08/2020-12/2020 - Divine.vn
-Developer
-- Phát triển các tính năng mới: quản lý các thông tin trên trang.
-- Xây dựng giao diện mới theo thiết kế
-- Công nghệ sử dụng:
-+ Frontend:  HTML, CSS, Javascript.
-+ PHP CMS October.
-+ Database MySQL.
-### 06/2020-08/2020 - Divine study
-Developer
-- Phát triển các tính năng mới: quản lý tài khoản trên extension, quản lý thông tin nhân viên, khóa học
-- Công nghệ sử dụng:
-+ Frontend:  HTML, CSS, Jquery.
+**Mô tả:** Hệ thống quản lý nội dung (CMS) cho website giới thiệu công ty Divine.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng:** CMS October.
+
+**Trách nhiệm:**
+- Phát triển các tính năng mới: quản lý thông tin, quản lý nội dung trên website.
+- Xây dựng giao diện người dùng theo thiết kế.
+
+### 06/2020-08/2020 - Divine Study
+**Mô tả:** Website học tập nội bộ của công ty Divine.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng:**
+  + Frontend: HTML, CSS, jQuery
+  + Backend/CMS: PHP (OpenCart)
+  + Database: MySQL
+
+**Trách nhiệm:**
+- Phát triển các tính năng mới: quản lý tài khoản trên extension, quản lý thông tin nhân viên, quản lý khóa học.
+- Triển khai và sửa lỗi phát sinh trên sản phẩm.
+
+### 03/2020-06/2020 - DC Store
+**Mô tả:** Website sản phẩm của công ty Divine.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng:** HTML, CSS, jQuery, PHP (OpenCart CMS), MySQL
+
+**Trách nhiệm:**
+- Phát triển giao diện người dùng (UI) cho website thương mại điện tử DCStore.
+- Triển khai và sửa lỗi phát sinh trên sản phẩm.
+
+### 11/2019-01/2020 - Vmusicchart - Music Rankings
+**Mô tả:** Website tổng hợp danh sách xếp hạng âm nhạc Việt Nam trên các trang nghe nhạc trực tuyến zingmp3.vn, nhaccuatui.com, nhac.vn.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng:** HTML, CSS, JavaScript, PHP framework, MySQL
+
+**Trách nhiệm:**
+Phát triển các tính năng mới, bao gồm:
+- Chức năng tổng hợp bảng xếp hạng âm nhạc Việt Nam.
+- Tự động thu thập số liệu trên các trang nghe nhạc trực tuyến
+- Xuất báo cáo xu hướng, thống kê lượt nghe
+
+### 08/2018-10/2019 - Hóa đơn điện tử ACman và hoadonviet
+**Mô tả:** Hệ thống quản lý hoá đơn điện tử của ACman và hoadonviet.
+
+**Vai trò:** Developer
+
+**Công nghệ sử dụng**
++ Frontend: HTML, CSS, JS/ jQuery
 + PHP CMS Opencart.
-+ Database MySQL.
-### 03/2020-06/2020 - DC store
-Developer
-- Xây dựng giao diện trang shop DCstore
-- Công nghệ sử dụng:
-+ Frontend:  HTML, CSS, Jquery.
-+ PHP CMS Opencart.
-+ Database MySQL.
-### 11/2019-01/2020 - Bảng xếp hạng âm nhạc Vmusicchart
-Developer
-- Phát triển các tính năng mới: thống kê bảng xếp hạng âm nhạc VN.
-- Công nghệ sử dụng:
-+ Frontend:  HTML, CSS, Javascript.
-+ PHP framework.
-+ Database MySQL.
-### 07/2019-11/2019 - Hóa đơn điện tử hoadonviet
-Developer
-- Phát triển một số tính năng mới
-- Công nghệ sử dụng:
-+ Frontend: Webix,  HTML, CSS.
-+ Rest API request
-### 05/2019-06/2019 - Phần mềm QUẢN LÝ NHÀ XE ANVUI
-Developer
-- Phát triển một số tính năng mới
-- Công nghệ sử dụng:
-+ Frontend: VueJS,  HTML, CSS.
-+ Rest API request
-### 08/2018-04/2019 - Hóa đơn điện tử ACman
-Developer
++ Database: MySQL, SQLServer.
+
+**Trách nhiệm:**
 - Xây dựng module quản lý hóa đơn điện tử.
-- Công nghệ sử dụng:
-+ PHP CMS Opencart.
-+ Database SQLServer.
-+ HTML, CSS, JS/ jQuery
-### 05/2018-08/2018 - Phần mềm Quản lý quầy thuốc
-Developer
-- Hoàn thiện sản phẩm theo yêu cầu.
-- Phát triển các tính năng mới
-- Công nghệ sử dụng:
-+ PHP framework Codeigniter.
-+ Database: MySQL, MongoDB.
-+ HTML, CSS, JS/jQuery
-### 04/2018-05/2018 - Xây dựng giao diện cho phần mềm KCS
-Developer
-- Hoàn thiện giao diện phần mềm theo yêu cầu.
-- Công nghệ sử dụng:
-+ JS framework KendoUI.
-+ HTML, CSS, JS/jQuery
-### 05/2017-09/2017 - Phần mềm sổ liên lạc điện tử
-Thực tập sinh
-- Phát triển một số tính năng mới
-- Công nghệ sử dụng:
-+ PHP CMS Drupal 6.
-+ Database: MySQL
+- Phát triển một số tính năng mới theo yêu cầu: Xem và xuất hoá đơn điện tử, theo dõi trạng thái hoá đơn.
+
+### 03/2018-08/2018 - Phần mềm Quản lý quầy thuốc
+**Mô tả:** Hệ thống quản lý sản phẩm dược, thuốc, dụng cụ y tế, theo dõi số lượng đơn giá của sản phẩm, bán hàng trên máy tính tiền POS.
+
+**Vai trò:** Lập trình viên
+
+**Công nghệ sử dụng:** PHP CodeIgniter, MySQL, MongoDB, HTML, CSS, JavaScript, jQuery
+
+**Trách nhiệm:**
+- Nâng cấp và cải tiến hệ thống dựa trên yêu cầu kinh doanh.
+- Phát triển và triển khai các tính năng mới, bao gồm in hóa đơn, lập hóa đơn POS, thống kê/báo cáo sản phẩm và cập nhật đơn giá.
 
 ## CHỨNG CHỈ
 2015 - Lập trình Website PHP chuyên nghiệp
 
 ## SỞ THÍCH
-+ Thích game và những thứ liên quan tới game.
-+ Bóng đá và các môn thể thao
+- Thích game và những thứ liên quan tới game.
+- Bóng đá và các môn thể thao
 
-## THÔNG TIN THÊM VỀ BẢN THÂN
-+ Ham học hỏi những công nghệ mới, thích lập trình.
-+ Thích khám phá, tìm hiểu ứng dụng công nghệ.
-+ Có khả năng tự tìm hiểu
+## THÔNG TIN THÊM
+- Ham học hỏi các công nghệ mới và đam mê lập trình.
+- Quan tâm sâu sắc đến việc khám phá và ứng dụng các giải pháp công nghệ.
+- Khả năng tự học xuất sắc và kỹ năng giải quyết vấn đề độc lập.

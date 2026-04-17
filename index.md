@@ -1,7 +1,7 @@
-# Phạm Quang Huy
+# Pham Quang Huy
 ## Developer
 
-Email: phamhuy361995@gmail.com | me@huypq.com
+Email: phamhuy361995@gmail.com / me@huypq.com
 
 ## CAREER OBJECTIVE
 Aiming to leverage strong front-end development expertise to build scalable, high-performance, and user-centric web applications. Passionate about creating intuitive UI/UX and delivering seamless user experiences across modern web platforms. Committed to improving product quality and contributing to business value through clean, maintainable, and efficient code. Continuously learning and adopting new technologies, frameworks, and best practices in the front-end ecosystem. Striving to grow into a highly skilled Frontend Developer while enhancing problem-solving abilities and technical competencies.
@@ -10,7 +10,7 @@ Aiming to leverage strong front-end development expertise to build scalable, hig
 + Frontend: HTML5, CSS3, SCSS, JavaScript(ES6+)
 + Framework & Library: Vue.js (v2 & v3), Element UI, Tailwind CSS, OpenLayer, Leaflet
 + Backend & CMS: PHP, Wordpress, Laravel, OpenCart
-+ Tools & Others: Git, SVN, Apache, Nginx.
++ Tools & Others: Git, SVN, Apache, Nginx, Geoserver, Keycloak.
 
 ## EDUCATION
 09/2013-12/2017 - Electric Power University (EPU)
@@ -23,7 +23,7 @@ Aiming to leverage strong front-end development expertise to build scalable, hig
 
 ## WORK EXPERIENCE
 ### 08/2021-02/2026 - ELCOM CORPORATION
-Developer
+**Developer**
 - Participated in building internal website projects: VSAT, ITS, MetaCEN, ETC.
 - Participated in perfecting and upgrading the UI for the VSAT project.
 - Participated in building and perfecting features and UI for the ITS (Intelligent Transportation System) project.
@@ -31,18 +31,18 @@ Developer
 - Built, perfected, and upgraded features according to requirements.
 
 ### 06/2021-08/2021 - CMC Global
-Developer
+**Developer**
 - Participated in building an eKyc website project for Mantradao.
 - Built and perfected website modules for information authentication.
 
 ### 03/2020-04/2021 - Divine Corp JSC
-Developer
+**Developer**
 - Participated in building website projects: study.divine.vn, divine.vn, divineshop.vn, dcstore.vn.
 - Built the UI for dcstore.vn.
 - Participated in building and perfecting various website modules.
 
 ### 08/2016-02/2020 - Vietnam Data Communication JSC (DCV)
-Developer
+**Developer**
 - Participated in building website projects: nhanquyen.vietnam.vn, aseanvietnam.vn, vmusicchart.vn, etc.
 - Participated in building the UI for the KCS project, as well as building and perfecting various website modules.
 - Built websites on WordPress, Drupal.
@@ -51,38 +51,34 @@ Developer
 
 ## PROJECTS
 ### 08/2025-02/2026 - ETC - Toll Station & Weigh Station Monitoring System
-Description: The system is used to track and monitor vehicles passing through toll stations, and to compile and retrieve transaction history at toll stations, weigh station.
+**Description:** The system is used to track and monitor vehicles passing through toll stations, and to compile and retrieve transaction history at toll stations, weigh station.
 
-Role: Front-end Developer
+**Role:** Front-end Developer
 
-Team size: 6 member
-
-Tech stack:
+**Tech stack:**
   + Frontend: Vue JS(v2), HTML, SCSS.
   + Library: Element UI, TailwindCss
   + RESTful API request.
 
-Responsibility:
+**Responsibility:**
   - Built and developed new features using API web services.
   - Developed a reusable component for the vehicle load model in lanes.
   - Develop features for viewing and exporting reports files.
   - Upgraded and perfected functions according to UI/UX requirements.
-Achievements:
+**Achievements:**
   - The system has been successfully implemented at toll stations, weigh station on the Mai Son - Nghi Son, Nghi Son - Dien Chau, and Vinh Hao - Phan Thiet - Dau Giay expressways.
 
 ### 02/2022-08/2025 - ITS - Intelligent Transportation System
-Description: The system is used for monitoring, measuring traffic flow, providing statistical reports, and processing violations and incidents using AI cameras on highways and in urban areas.
+**Description:** The system is used for monitoring, measuring traffic flow, providing statistical reports, and processing violations and incidents using AI cameras on highways and in urban areas.
 
-Role: Front-end Developer
+**Role:** Front-end Developer
 
-Team size: 10 member
-
-Tech stack:
+**Tech stack:**
   + Frontend: Vue JS(v2, v3), HTML, SCSS.
   + Library: Element UI, OpenLayer, Leafletjs, TailwindCss, MilestoneWebAPI, Fabricjs
   + RESTful API request, SocketIO
 
-Responsibility:
+**Responsibility:**
   - Built and developed new features using API web services.
   - Built new frameworks and UIs according to design.
   - Built base frontend architecture and reusable components.
@@ -92,152 +88,126 @@ Responsibility:
   - Update multilingual support for applications in the project.
   - Refactored legacy code and improved system performance.
   - Fix bugs and update features on the deployed product.
-Achievements:
+**Achievements:**
   - The system has been successfully implemented on the Cau Gie - Ninh Binh, Nha Trang - Cam Lam, Dien Chau - Bai Vot Expressway, and within the inner city of Hue and Viet Tri (Phu Tho).
   - Successfully built a multi-node deployment script.
 
 ### 08/2021-02/2022 - VSAT - Satellite Data Collection System
-Description: The system collects satellite data on the location and movement routes of ships at sea, and detects and decodes information exchanged between ships.
+**Description:** The system collects satellite data on the location and movement routes of ships at sea, and detects and decodes information exchanged between ships.
 
-Team size: 4 member
+**Role:** Front-end Developer
 
-Role: Front-end Developer
-
-Tech stack:
+**Tech stack:**
   + Vue JS, HTML, SCSS, Element UI, OpenLayer
   + RESTful API request.
 
-Responsibility:
+**Responsibility:**
 - Developed new features using API web services.
 - Built new UIs according to design.
 - Upgraded functions according to new UX requirements.
 - Fix bugs and update features on the deployed product.
 
 ### 06/2021-07/2021 - e-Kyc Mantradao
-Description: Electronic customer identification system for the Mantradao ecosystem.
+**Description:** Electronic customer identification system for the Mantradao ecosystem.
 
-Team size: 2 member
+**Role:** Developer
 
-Role: Developer
-
-Tech stack:
+**Tech stack:**
   + Frontend: Angular JS.
   + Backend: PHP Laravel.
   + Database MySQL.
 
-Responsibility:
+**Responsibility:**
 - Developed new features using API services.
 - Built new UIs according to design.
 - Fix bugs on the deployed product.
 
 ### 01/2021-04/2021 - Divine Shop ver 3
-Description: Divine Shop E-commerce Platform
+**Description:** Divine Shop E-commerce Platform
 
-Team size: 4 member
+**Role:** Developer
 
-Role: Developer
-
-Tech stack:
+**Tech stack:**
   + Frontend: React JS.
   + Backend: PHP API custom framework.
   + Database MySQL.
 
-Responsibility:
+**Responsibility:**
 - Developed new features using API services.
 - Built new UIs according to design using React components.
 
 ### 08/2020-12/2020 - Divine.vn
-Description: Content Management System (CMS) for Company Introduction - Divine
+**Description:** Content Management System (CMS) for the Divine company website.
 
-Team size: 4 member
+**Role:** Developer
 
-Role: Developer
+**Tech stack:** CMS October.
 
-Tech stack:
-  + Frontend: HTML, CSS, Javascript.
-  + PHP CMS October.
-  + Database MySQL.
-
-Responsibility:
-  - Developed new features: managing information on the page.
-  - Built new UIs according to design.
+**Responsibilities:**
+- Develop new features: information management, content management on the website.
+- Build the user interface according to the design.
 
 ### 06/2020-08/2020 - Divine Study
-Description: Divine company internal learning website
+**Description:** Divine Company's internal learning website.
 
-Team size: 4 member
+**Role:** Developer
 
-Role: Developer
+**Tech stack:**
+  + Frontend: HTML, CSS, jQuery
+  + Backend/CMS: PHP (OpenCart)
+  + Database: MySQL
 
-Tech stack:
-  + Frontend: HTML, CSS, Jquery.
-  + PHP CMS Opencart.
-  + Database MySQL.
-
-Responsibility:
-- Developed new features: account management on extension, employee information management, course management.
+**Responsibilities:**
+- Develop new features: account management on the extension, employee information management, course management.
+- Implement and fix bugs in the product.
 
 ### 03/2020-06/2020 - DC Store
-Description: DC Store
-Developer
-- Built the UI for the DC store page.
-- Tech stack:
-  + Frontend: HTML, CSS, Jquery.
-  + PHP CMS Opencart.
-  + Database MySQL.
+**Description:** Corporate product website for Divine.
+
+**Role:** Developer
+
+**Tech stack:** HTML, CSS, jQuery, PHP (OpenCart CMS), MySQL
+
+**Responsibilities:**
+- Developed the user interface (UI) for the DCStore e-commerce website.
+- Implemented features and fixed issues on the production system.
 
 ### 11/2019-01/2020 - Vmusicchart - Music Rankings
-Developer
-- Developed new features: Vietnam music ranking statistics.
-- Tech stack:
-  + Frontend: HTML, CSS, Javascript.
-  + PHP framework.
-  + Database MySQL.
+**Description:** A platform aggregating Vietnam music charts from online streaming services such as zingmp3, nhaccuatui, nhac.vn.
 
-### 07/2019-11/2019 - Hoadonviet - Electronic Invoices
-Developer
-- Developed new features to requirements.
-- Tech stack:
-  + Frontend: Webix, HTML, CSS.
-  + Rest API request
+**Role:** Developer
 
-### 05/2019-06/2019 - ANVUI - Bus Ticket Management Software
-Developer
-- Developed some new features to requirements.
-- Tech stack:
-  + Frontend: VueJS, HTML, CSS.
-  + Rest API request
+**Tech stack:** HTML, CSS, JavaScript, PHP framework, MySQL
 
-### 08/2018-04/2019 - ACman - Electronic Invoices
-Developer
-- Built the electronic invoice management module.
-- Tech stack:
-  + PHP CMS Opencart.
-  + Database SQLServer.
-  + HTML, CSS, JS/ jQuery
+**Responsibilities:**
+- Developed new features, including:
+- Aggregation of Vietnam music chart rankings from multiple platforms.
+- Automated data collection from online music streaming services.
+- Generated reports on trends and listening statistics.
 
-### 05/2018-08/2018 - Pharmacy Management Software
-Developer
-- Perfected the product according to requirements.
-- Developed new features.
-- Tech stack:
-  + PHP framework Codeigniter.
-  + Database: MySQL, MongoDB.
-  + HTML, CSS, JS/jQuery
+### 08/2018-10/2019 - ACman & Hoadonviet - Electronic Invoices
+**Description:**
+Electronic Invoice Management System for ACman and Hoadonviet.
 
-### 04/2018-05/2018 - Building UI for KCS Software
-Developer
-- Perfected the software UI according to requirements.
-- Tech stack:
-  + JS framework KendoUI.
-  + HTML, CSS, JS/jQuery
+**Role:** Developer
 
-### 05/2017-09/2017 - Electronic Contact Book Software
-Intern
-- Developed some new features.
-- Tech stack:
-  + PHP CMS Drupal 6.
-  + Database: MySQL
+**Tech stack**
+HTML, CSS, jQuery, PHP (OpenCart CMS), MySQL, SQL Server
+
+**Responsibilities:**
+- Developed the electronic invoice management module.
+- Implemented several new features based on requirements: viewing and exporting electronic invoices, and tracking invoice status.
+
+### 03/2018-08/2018 - Pharmacy Management Software
+**Description:** A comprehensive system for managing pharmaceuticals, medicines, and medical supplies. The system supports inventory tracking (quantity and unit price), sales processing, and Point of Sale (POS) operations on desktop.
+
+**Role:** Developer
+
+**Tech stack:** PHP CodeIgniter, MySQL, MongoDB, HTML, CSS, JavaScript, jQuery
+
+**Responsibilities:**
+- Upgraded and enhanced the system based on business requirements.
+- Developed and implemented new features, including invoice printing, POS billing, product statistics/reports, and unit price updates.
 
 ## CERTIFICATES
 2015 - Professional PHP Website Programming
