@@ -25,7 +25,11 @@ Mục tiêu là áp dụng chuyên môn phát triển giao diện người dùng
 - Ngôn ngữ lập trình PHP
 
 ## KINH NGHIỆM LÀM VIỆC
-### 08/2021-02/2026 - Công ty cổ phần công nghệ - viễn thông ELCOM
+### 05/2026- hiện tại - Công ty TNHH Phần mềm FPT
+**Developer**
+- Tham gia dự án RMS: nâng cấp và hoàn thiện các tính năng cho hệ thống giám sát ACS
+
+### 08/2021-04/2026 - Công ty cổ phần công nghệ - viễn thông ELCOM
 **Developer**
 - Tham gia xây dựng các dự án website nội bộ: ETC, VSAT, ITS, MetaCEN.
 - Tham gia hoàn thiện và nâng cấp giao diện người dùng (UI) cho dự án VSAT.
@@ -53,6 +57,22 @@ Mục tiêu là áp dụng chuyên môn phát triển giao diện người dùng
 - Xây dựng giao diện website.
 
 ## HOẠT ĐỘNG DỰ ÁN
+### 05/2026-07/2026 - RMS(Rack Management System) - Hệ thống quản lý giá, kệ đỡ tại kho
+**Mô tả:** Hệ thống quản lý, giám sát trực quan hiện trạng của giá, kệ đỡ theo thời gian thực, thiết lập kế hoạch nhập/xuất kho và tra cứu, quản lý lịch sử nhập/xuất kho hàng
+
+**Vai trò:** Front-end Developer
+
+**Công nghệ sử dụng:** iFact framework v3, VueJS(v3), ThreeJS, Buefy, Wijmo, RESTful API, WebSocket, Figma Design
+
+**Trách nhiệm:**
+  - Xây dựng và phát triển tính năng giám sát tủ kệ theo thời gian thực, thiết lập giới hạn, trạng thái sử dụng trên từng kệ hàng.
+  - Phát triển tính năng theo dõi trạng thái của tủ kệ trên map trực quan 3D.
+  - Xây dựng tính năng xem và xuất file báo cáo lịch sử yêu cầu xử lý các lô hàng.
+  - Nâng cấp giao diện hiển thị mô hình mô phỏng xe vận chuyển, trạng thái tủ kệ trên map trực quan 2D/3D.
+  - Sửa lỗi, tối ưu hiệu suất và hoàn thiện các chức năng theo yêu cầu UI/UX.
+  - Áp dụng đa ngôn ngữ cho các chức năng
+  - Phân quyền theo từng nhóm người dùng
+
 ### 08/2025-02/2026 - ETC - Hệ thống giám sát trạm thu phí, trạm cân
 **Mô tả:** Hệ thống được sử dụng để theo dõi và giám sát các phương tiện đi qua trạm thu phí, đồng thời tổng hợp và truy xuất lịch sử giao dịch tại các trạm thu phí.
 
