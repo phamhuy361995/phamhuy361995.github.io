@@ -26,7 +26,7 @@ Aiming to leverage strong front-end development expertise to build scalable, hig
 **Developer**
   - Participated in the RMS project: upgrading and refining RMS (Rack Management System) features for the ACS (AGV Control System) monitoring system.
 
-### 08/2021-02/2026 - ELCOM CORPORATION
+### 08/2021-04/2026 - ELCOM CORPORATION
 **Developer**
   - Participated in building internal website projects: VSAT, ITS, MetaCEN, ETC.
   - Participated in perfecting and upgrading the UI for the VSAT project.
@@ -73,7 +73,7 @@ Aiming to leverage strong front-end development expertise to build scalable, hig
   - Implement multi-language support for functions. 
   - Grant permissions based on user groups.
 
-### 08/2025-02/2026 - ETC - Toll Station & Weigh Station Monitoring System
+### 08/2025-04/2026 - ETC - Toll Station & Weigh Station Monitoring System
 **Description:** The system is used to track and monitor vehicles passing through toll stations, and to compile and retrieve transaction history at toll stations, weigh station.
 
 **Role:** Front-end Developer
