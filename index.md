@@ -17,7 +17,7 @@ Aiming to leverage strong front-end development expertise to build scalable, hig
 
 ## EDUCATION
 09/2013 - 12/2017 - Electric Power University (EPU)
-- Faculty: Information Technology
+- Major: Information Technology
 - Bachelor of Engineering degree
 
 07/2015 - 12/2015 - Information Technology Institute - Vietnam National University, Hanoi (ITI-ITPlus)
